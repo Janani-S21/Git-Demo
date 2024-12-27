@@ -1,1 +1,2 @@
-text3 file added
+text3 file added 
+text file 3 is modified successfully
